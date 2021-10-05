@@ -1,13 +1,12 @@
 ---
+title: "Hello Fellow Gamers!"
 layout: splash
 permalink: /
-hidden: true
 header:
   overlay_color: "#69006b"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  Hello Fellow Gamers! I am LaroTayoGaming and welcome to my page!
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/header.png
+  cta_label: "About Me"
+  cta_url: "/about"
+excerpt: "I am LaroTayoGaming and welcome to my blog!"
 ---
